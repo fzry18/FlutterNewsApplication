@@ -116,7 +116,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-Developer: [@fzry18]([https://www.linkedin.com/in/muhammad-fazry-suhada/])  
+Developer: [@Muhammad Fazry Suhada](https://www.linkedin.com/in/muhammad-fazry-suhada/)  
 Email: fazrysuhada168@gmail.com
 
 Project Link: [https://github.com/FlutterNewsApplication/news_app](https://github.com/FlutterNewsApplication/news_app)
