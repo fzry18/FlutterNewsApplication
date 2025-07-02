@@ -119,4 +119,4 @@ This project is licensed under the MIT License.
 Developer: [@fzry18]([https://www.linkedin.com/in/muhammad-fazry-suhada/])  
 Email: fazrysuhada168@gmail.com
 
-Project Link: [https://github.com/yourusername/news_app](https://github.com/yourusername/news_app)
+Project Link: [https://github.com/FlutterNewsApplication/news_app](https://github.com/FlutterNewsApplication/news_app)
