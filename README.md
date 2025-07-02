@@ -116,7 +116,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-Developer: [@yourhandle](https://twitter.com/yourhandle)  
-Email: your.email@example.com
+Developer: [@fzry18]([https://www.linkedin.com/in/muhammad-fazry-suhada/])  
+Email: fazrysuhada168@gmail.com
 
 Project Link: [https://github.com/yourusername/news_app](https://github.com/yourusername/news_app)
